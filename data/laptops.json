@@ -1,0 +1,414 @@
+[
+ {
+  "id": "L01",
+  "name": "Aero 14",
+  "brand": "Nimbus",
+  "price_usd": 649,
+  "ram_gb": 16,
+  "storage_gb": 512,
+  "cpu": "Ryzen 5",
+  "battery_hours": 11,
+  "weight_kg": 1.35,
+  "screen_in": 14.0,
+  "rating": 4.4,
+  "tags": [
+   "student",
+   "office",
+   "light"
+  ]
+ },
+ {
+  "id": "L02",
+  "name": "Aero 14 Pro",
+  "brand": "Nimbus",
+  "price_usd": 899,
+  "ram_gb": 16,
+  "storage_gb": 1024,
+  "cpu": "Ryzen 7",
+  "battery_hours": 12,
+  "weight_kg": 1.38,
+  "screen_in": 14.0,
+  "rating": 4.6,
+  "tags": [
+   "office",
+   "light",
+   "creator"
+  ]
+ },
+ {
+  "id": "L03",
+  "name": "Titan G15",
+  "brand": "Forge",
+  "price_usd": 1199,
+  "ram_gb": 16,
+  "storage_gb": 1024,
+  "cpu": "Core i7",
+  "battery_hours": 5,
+  "weight_kg": 2.4,
+  "screen_in": 15.6,
+  "rating": 4.5,
+  "tags": [
+   "gaming"
+  ]
+ },
+ {
+  "id": "L04",
+  "name": "Titan G17",
+  "brand": "Forge",
+  "price_usd": 1499,
+  "ram_gb": 32,
+  "storage_gb": 1024,
+  "cpu": "Core i9",
+  "battery_hours": 4,
+  "weight_kg": 2.9,
+  "screen_in": 17.3,
+  "rating": 4.7,
+  "tags": [
+   "gaming"
+  ]
+ },
+ {
+  "id": "L05",
+  "name": "Vector 15",
+  "brand": "Forge",
+  "price_usd": 799,
+  "ram_gb": 8,
+  "storage_gb": 512,
+  "cpu": "Core i5",
+  "battery_hours": 6,
+  "weight_kg": 2.1,
+  "screen_in": 15.6,
+  "rating": 4.0,
+  "tags": [
+   "gaming",
+   "budget"
+  ]
+ },
+ {
+  "id": "L06",
+  "name": "Slate 13",
+  "brand": "Pebble",
+  "price_usd": 549,
+  "ram_gb": 8,
+  "storage_gb": 256,
+  "cpu": "Core i3",
+  "battery_hours": 10,
+  "weight_kg": 1.2,
+  "screen_in": 13.3,
+  "rating": 4.1,
+  "tags": [
+   "student",
+   "budget",
+   "light"
+  ]
+ },
+ {
+  "id": "L07",
+  "name": "Slate 14",
+  "brand": "Pebble",
+  "price_usd": 729,
+  "ram_gb": 16,
+  "storage_gb": 512,
+  "cpu": "Core i5",
+  "battery_hours": 13,
+  "weight_kg": 1.3,
+  "screen_in": 14.0,
+  "rating": 4.5,
+  "tags": [
+   "student",
+   "office",
+   "light"
+  ]
+ },
+ {
+  "id": "L08",
+  "name": "Slate 16",
+  "brand": "Pebble",
+  "price_usd": 949,
+  "ram_gb": 16,
+  "storage_gb": 1024,
+  "cpu": "Core i7",
+  "battery_hours": 9,
+  "weight_kg": 1.8,
+  "screen_in": 16.0,
+  "rating": 4.3,
+  "tags": [
+   "office",
+   "creator"
+  ]
+ },
+ {
+  "id": "L09",
+  "name": "Bolt 15",
+  "brand": "Zephyr",
+  "price_usd": 599,
+  "ram_gb": 8,
+  "storage_gb": 512,
+  "cpu": "Ryzen 5",
+  "battery_hours": 7,
+  "weight_kg": 1.9,
+  "screen_in": 15.6,
+  "rating": 3.9,
+  "tags": [
+   "budget",
+   "office"
+  ]
+ },
+ {
+  "id": "L10",
+  "name": "Bolt 15 Plus",
+  "brand": "Zephyr",
+  "price_usd": 699,
+  "ram_gb": 16,
+  "storage_gb": 512,
+  "cpu": "Ryzen 5",
+  "battery_hours": 8,
+  "weight_kg": 1.9,
+  "screen_in": 15.6,
+  "rating": 4.2,
+  "tags": [
+   "budget",
+   "office"
+  ]
+ },
+ {
+  "id": "L11",
+  "name": "Bolt 17",
+  "brand": "Zephyr",
+  "price_usd": 849,
+  "ram_gb": 16,
+  "storage_gb": 1024,
+  "cpu": "Ryzen 7",
+  "battery_hours": 7,
+  "weight_kg": 2.5,
+  "screen_in": 17.3,
+  "rating": 4.0,
+  "tags": [
+   "office",
+   "big-screen"
+  ]
+ },
+ {
+  "id": "L12",
+  "name": "Feather 13",
+  "brand": "Nimbus",
+  "price_usd": 999,
+  "ram_gb": 16,
+  "storage_gb": 512,
+  "cpu": "Core Ultra 7",
+  "battery_hours": 15,
+  "weight_kg": 0.99,
+  "screen_in": 13.3,
+  "rating": 4.8,
+  "tags": [
+   "light",
+   "premium",
+   "office"
+  ]
+ },
+ {
+  "id": "L13",
+  "name": "Studio 16",
+  "brand": "Lumen",
+  "price_usd": 1399,
+  "ram_gb": 32,
+  "storage_gb": 2048,
+  "cpu": "Core Ultra 9",
+  "battery_hours": 10,
+  "weight_kg": 1.95,
+  "screen_in": 16.0,
+  "rating": 4.7,
+  "tags": [
+   "creator",
+   "premium"
+  ]
+ },
+ {
+  "id": "L14",
+  "name": "Studio 14",
+  "brand": "Lumen",
+  "price_usd": 1099,
+  "ram_gb": 16,
+  "storage_gb": 1024,
+  "cpu": "Core Ultra 7",
+  "battery_hours": 12,
+  "weight_kg": 1.45,
+  "screen_in": 14.0,
+  "rating": 4.6,
+  "tags": [
+   "creator",
+   "light"
+  ]
+ },
+ {
+  "id": "L15",
+  "name": "Chromo 11",
+  "brand": "Pebble",
+  "price_usd": 279,
+  "ram_gb": 4,
+  "storage_gb": 64,
+  "cpu": "Celeron",
+  "battery_hours": 12,
+  "weight_kg": 1.1,
+  "screen_in": 11.6,
+  "rating": 3.6,
+  "tags": [
+   "student",
+   "budget"
+  ]
+ },
+ {
+  "id": "L16",
+  "name": "Chromo 14",
+  "brand": "Pebble",
+  "price_usd": 379,
+  "ram_gb": 8,
+  "storage_gb": 128,
+  "cpu": "Core i3",
+  "battery_hours": 11,
+  "weight_kg": 1.4,
+  "screen_in": 14.0,
+  "rating": 3.8,
+  "tags": [
+   "student",
+   "budget"
+  ]
+ },
+ {
+  "id": "L17",
+  "name": "Raptor 16",
+  "brand": "Forge",
+  "price_usd": 999,
+  "ram_gb": 16,
+  "storage_gb": 1024,
+  "cpu": "Ryzen 7",
+  "battery_hours": 6,
+  "weight_kg": 2.3,
+  "screen_in": 16.0,
+  "rating": 4.4,
+  "tags": [
+   "gaming"
+  ]
+ },
+ {
+  "id": "L18",
+  "name": "Raptor 14",
+  "brand": "Forge",
+  "price_usd": 1149,
+  "ram_gb": 16,
+  "storage_gb": 1024,
+  "cpu": "Ryzen 9",
+  "battery_hours": 7,
+  "weight_kg": 1.7,
+  "screen_in": 14.0,
+  "rating": 4.6,
+  "tags": [
+   "gaming",
+   "light"
+  ]
+ },
+ {
+  "id": "L19",
+  "name": "Edge 15",
+  "brand": "Lumen",
+  "price_usd": 779,
+  "ram_gb": 16,
+  "storage_gb": 512,
+  "cpu": "Core i5",
+  "battery_hours": 9,
+  "weight_kg": 1.7,
+  "screen_in": 15.6,
+  "rating": 4.3,
+  "tags": [
+   "office",
+   "student"
+  ]
+ },
+ {
+  "id": "L20",
+  "name": "Edge 13",
+  "brand": "Lumen",
+  "price_usd": 689,
+  "ram_gb": 8,
+  "storage_gb": 512,
+  "cpu": "Core i5",
+  "battery_hours": 14,
+  "weight_kg": 1.15,
+  "screen_in": 13.3,
+  "rating": 4.4,
+  "tags": [
+   "light",
+   "student"
+  ]
+ },
+ {
+  "id": "L21",
+  "name": "Workhorse 15",
+  "brand": "Zephyr",
+  "price_usd": 1049,
+  "ram_gb": 32,
+  "storage_gb": 1024,
+  "cpu": "Core i7",
+  "battery_hours": 8,
+  "weight_kg": 2.0,
+  "screen_in": 15.6,
+  "rating": 4.2,
+  "tags": [
+   "office",
+   "business"
+  ]
+ },
+ {
+  "id": "L22",
+  "name": "Workhorse 14",
+  "brand": "Zephyr",
+  "price_usd": 929,
+  "ram_gb": 16,
+  "storage_gb": 512,
+  "cpu": "Core i5",
+  "battery_hours": 11,
+  "weight_kg": 1.5,
+  "screen_in": 14.0,
+  "rating": 4.1,
+  "tags": [
+   "office",
+   "business",
+   "light"
+  ]
+ },
+ {
+  "id": "L23",
+  "name": "Nova 16",
+  "brand": "Nimbus",
+  "price_usd": 759,
+  "ram_gb": 16,
+  "storage_gb": 1024,
+  "cpu": "Ryzen 7",
+  "battery_hours": 8,
+  "weight_kg": 1.85,
+  "screen_in": 16.0,
+  "rating": 4.3,
+  "tags": [
+   "office",
+   "creator",
+   "big-screen"
+  ]
+ },
+ {
+  "id": "L24",
+  "name": "Nova 14",
+  "brand": "Nimbus",
+  "price_usd": 619,
+  "ram_gb": 8,
+  "storage_gb": 512,
+  "cpu": "Ryzen 5",
+  "battery_hours": 10,
+  "weight_kg": 1.4,
+  "screen_in": 14.0,
+  "rating": 4.0,
+  "tags": [
+   "student",
+   "budget"
+  ]
+ }
+]
